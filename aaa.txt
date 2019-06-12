@@ -1,6 +1,6 @@
 cmy
+<<<<<<< HEAD
 hx_devÌí¼Ó
+=======
 hx_feature_test ±àĞ´
-1
-
-123123123
+>>>>>>> hx_feature_test
